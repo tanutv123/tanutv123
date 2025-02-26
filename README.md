@@ -23,7 +23,8 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/v%C3%B5-t%E1%BA%A5n-t%C3%A0i-a4a486248/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.facebook.com/votantai2309/" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
 <a target="_blank" href="https://www.instagram.com/teomzggggg/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<img align="right" alt="" height="150" src="https://tenor.com/bcYPY.gif"  />
+
+<img align="right" height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNlOHQ5MzhqZ3EyNHptOWxwc3JuM3MzajJ2cG5kNHdxNHhsaGJoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QTaNqfIczYL0iY4udO/giphy.gif"  />
 
 ###
 
